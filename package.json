@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "replicate": "^0.16.0"
+  }
+}
